@@ -1,0 +1,13 @@
+1)Study of baisic network commands.(write with options)
+
+	ipconfig
+	ping
+	getmac
+	hostname
+	systeminfo
+	nslookup
+	tracert
+	netstat
+	pathping
+	arp
+
